@@ -1,8 +1,8 @@
 ### Взять АПИ API_HASH
-
+Берешь отсюда API_HASH и API_ID
 https://my.telegram.org/auth
 
-### Копируем папку
+### Копируем папку и вставляем данные API_HASH
 ```bash
 cp -r obrazec parser2 && cd parser2 && nano .env
 ```
